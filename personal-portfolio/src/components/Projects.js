@@ -117,7 +117,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>As a software developer, my projects reflect my passion for innovation and efficiency. I've developed a range of applications, from user-friendly mobile apps to robust web platforms, all designed to solve real-world problems. My portfolio includes an AI-driven chatbot that enhances customer support and a data visualization tool that turns complex datasets into actionable insights. I focus on clean, efficient code and intuitive design, ensuring each project not only meets but exceeds user expectations. Constantly seeking new challenges, I embrace the latest technologies to deliver scalable, high-performance solutions that drive success and create meaningful impact.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>

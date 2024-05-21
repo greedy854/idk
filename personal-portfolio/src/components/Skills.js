@@ -35,7 +35,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p>As a skilled software developer, I specialize in web development with a strong focus on creating dynamic, responsive interfaces. My expertise includes React, allowing me to build robust and interactive user experiences. I utilize Tailwind for efficient and aesthetically pleasing designs, while my proficiency in HTML and CSS ensures a solid foundation for any project. Python is another key strength, enabling me to develop powerful backend solutions. I thrive in Agile development environments, where I can collaborate effectively and adapt to changing requirements. My comprehensive skill set ensures I deliver high-quality, scalable solutions that meet client needs and drive innovation.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
