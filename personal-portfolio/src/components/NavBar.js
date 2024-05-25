@@ -64,6 +64,12 @@ export const NavBar = () => {
                 <button className="vvd"><span>Let’s Connect</span></button>
               </HashLink>
             </span>
+            
+            <span className="navbar-text2">
+            <HashLink to='#'>
+                <button className="lol"><span>My info</span></button>
+              </HashLink>
+            </span>
           </Navbar.Collapse>
         </Container>
       </Navbar>
